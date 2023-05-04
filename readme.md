@@ -10,9 +10,9 @@ Este é um projeto simples de frontend em React que consiste em uma ferramenta d
 - Tecnologias utilizadas
 
 ## Este projeto foi criado utilizando as seguintes tecnologias:
-'
+```
 React
 JavaScript
 HTML5
 CSS3
-'
+```
