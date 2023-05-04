@@ -1,13 +1,13 @@
 import styles from './Header.module.css'
-import igniteLogo from '../assets/Ignite-logo.svg'
+import lumeLogo from '../assets/lume-logo.png'
 
 
 export function Header() {
     return (
         <header className={styles.header}>
             <img
-                src={igniteLogo}
-                alt="Logo do Ignite"
+                src={lumeLogo}
+                alt="Logo da LumeStack"
                 data-qa="logo-img"
             />
         </header>

@@ -20,7 +20,7 @@ export function Comment({ content, deleteComment }) {
 
     return (
         <div className={styles.comment}>
-            <Avatar hasBorder={false} src="https://github.com/henriquemanieri.png" />
+            <Avatar hasBorder={false} src="./src/assets/icons8-test-account-96.png" />
             <div data-qa="comment-box" className={styles.commentBox}>
                 <div data-qa="comment-info-box" className={styles.commentContent}>
                     <header>
